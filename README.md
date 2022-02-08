@@ -1,2 +1,3 @@
-# effective-barnacle
-JavaTest
+# Сопроводительное
+Тестовое задание Java
+Версия 17.0.2
